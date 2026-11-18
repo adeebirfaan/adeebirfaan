@@ -8,7 +8,7 @@ I'm a full-stack and mobile developer studying Computer Science (Software Engine
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Unifyd**](https://github.com/adeebirfaan/Unifyd-V1) | My final year project: budgets, deadlines and receipt scanning in one app for Malaysian university students | React Native, Expo, Supabase, Google Cloud Vision |
+| [**Unifyd**](https://github.com/adeebirfaan/unifyd) | My final year project: budgets, deadlines and receipt scanning in one app for Malaysian university students | React Native, Expo, Supabase, Google Cloud Vision |
 | [**Git It Done**](https://github.com/adeebirfaan/GIT-IT-DONE) · [live](https://git-it-done.pages.dev/) | A simulated terminal for learning Git, with commands you search by what you want to do and guided missions | Next.js, TypeScript, Tailwind CSS |
 | [**Techverse MY**](https://github.com/adeebirfaan/Tech-Verse-My) · [live](https://tech-verse-my.pages.dev/) | A directory of Malaysian-made apps and websites. Makers submit their own, and I approve them | Next.js, TypeScript, Tailwind CSS |
 | [**SAMS**](https://github.com/adeebirfaan/SAMS) | GPS-checked attendance, tuition payments and course registration for five university roles | Flutter, Firebase |
