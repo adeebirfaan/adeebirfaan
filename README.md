@@ -1,4 +1,4 @@
-# Hi, I'm adeeb 👋
+# Hi, I'm adeeb 
 
 I'm a full-stack and mobile developer studying Computer Science (Software Engineering) at Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA). I build role-based web and mobile apps with Laravel, Next.js, React Native, Flutter and Supabase.
 
